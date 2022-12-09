@@ -19,7 +19,7 @@
     "cors": "^2.8.4",
     "cute-logger": "^8.0.3",
     "dotenv": "^7.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hoek": ">=4.2.1",
     "ip": "^1.1.5",
     "jsonwebtoken": "^8.5.1",
